@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SoggyxWaffles
-🎯 I’m an aspiring Cybersecurity Analyst and Penetration Tester working toward an A.A.S. in Computer Information Systems. My mission is to build secure, ethical tools and stay one step ahead of cyber threats.
+- 👋 Hi, I’m @SoggyxWaffles OR Gh0stB1ad3
 
+- 
 ## 🛠️ Skills & Tools
 - **Pentesting Tools:** Burp Suite, Metasploit, Wireshark, Nmap
 - **Languages & Dev:** Python, JavaScript, Git, Bash
@@ -13,11 +13,7 @@
 - 🌐 **Firewall w/ Packet Filtering** — CLI-based virtual firewall with alerting and anomaly detection.
 
 ## 🎓 Currently Learning
-- CompTIA Security+
-- Jr Penetration Tester Path on TryHackMe
-- Python for Offensive Security
-
-> _“Security is not a product, but a process.” — Bruce Schneier_
+- Life
 
 
 <!---
